@@ -12,5 +12,7 @@ Arguments
 Examples
 
 java -jar Scrambler.jar -word this is a word
+
 java -jar Scrambler.jar -file test.txt
+
 java -jar Scrambler.jar -file test.txt -newfile test2.txt
